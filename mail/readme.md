@@ -1,0 +1,1 @@
+### Po spuštění pc pošle pošle mail.
